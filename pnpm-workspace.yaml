@@ -14,3 +14,11 @@ catalog:
   react-dom: ^19.2.6
   react: ^19.2.6
   tailwindcss: ^4.3.0
+
+minimumReleaseAgeExclude:
+  - '@tanstack/eslint-plugin-query@5.100.13'
+  - '@tanstack/query-core@5.100.13'
+  - '@tanstack/query-devtools@5.100.13'
+  - '@tanstack/react-query-devtools@5.100.13'
+  - '@tanstack/react-query@5.100.13'
+  - react-hook-form@7.76.1
